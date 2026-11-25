@@ -4,7 +4,7 @@ import streamlit as st
 
 from calculadora import calculos
 from calculadora.materiales import MATERIALES
-from calculadora.validaciones import DatoInvalido, validar_positivo, validar_seccion
+from calculadoras.validaciones import DatoInvalido, validar_positivo, validar_seccion
 from servicios import historial, logs, reportes
 from utilidades.generadores import iterar_historial, iterar_logs
 
