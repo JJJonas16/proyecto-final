@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0001",
+    "fecha": "2026-11-22 15:27:20",
+    "entradas": {
+      "tension": 12.0,
+      "resistencia_carga": 10.0,
+      "material": "Cobre",
+      "longitud_ida": 5.0,
+      "seccion": 2.5
+    },
+    "resultados": {
+      "rc": 0.06720000000000001,
+      "rt": 10.0672,
+      "corriente": 1.1919898283534647,
+      "caida_tension": 0.08010171646535284,
+      "potencia": 0.09548043126035381
+    }
+  },
+  {
+    "id": "0002",
+    "fecha": "2026-11-22 15:34:43",
+    "entradas": {
+      "tension": 12.0,
+      "resistencia_carga": 10.0,
+      "material": "Cobre",
+      "longitud_ida": 5.0,
+      "seccion": 2.5
+    },
+    "resultados": {
+      "rc": 0.06720000000000001,
+      "rt": 10.0672,
+      "corriente": 1.1919898283534647,
+      "caida_tension": 0.08010171646535284,
+      "potencia": 0.09548043126035381
+    }
+  }
+]
