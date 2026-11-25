@@ -1,0 +1,36 @@
+2026-11-22 15:27:19 | WARNING | logs.configurar_logs | archivo de logs creado porque no existía
+2026-11-22 15:27:19 | INFO | app.iniciar_aplicacion | aplicación iniciada
+2026-11-22 15:27:20 | INFO | decoradores.envoltura | calcular_todo completado en 0.0000 s
+2026-11-22 15:27:20 | WARNING | historial.inicializar_historial | historial creado porque no existía
+2026-11-22 15:27:20 | INFO | historial.leer_historial | historial leído con 0 registros
+2026-11-22 15:27:20 | INFO | historial.guardar_calculo | historial escrito | id=0001
+2026-11-22 15:27:20 | INFO | decoradores.envoltura | guardar_calculo completado en 0.0032 s
+2026-11-22 15:27:20 | INFO | historial.leer_historial | historial leído con 1 registros
+2026-11-22 15:27:21 | INFO | historial.leer_historial | historial leído con 1 registros
+2026-11-22 15:27:21 | INFO | historial.leer_historial | historial leído con 1 registros
+2026-11-22 15:27:21 | INFO | reportes.exportar_csv | reporte exportado | archivo=reporte_20261122_152721.csv
+2026-11-22 15:27:21 | WARNING | app.pagina_calculadora | validación rechazada | El campo Tensión debe ser un número.
+2026-11-22 15:32:44 | INFO | app.iniciar_aplicacion | aplicación iniciada
+2026-11-22 15:33:16 | INFO | historial.leer_historial | historial leído con 1 registros
+2026-11-22 15:33:38 | INFO | historial.leer_historial | historial leído con 1 registros
+2026-11-22 15:33:41 | INFO | historial.leer_historial | historial leído con 1 registros
+2026-11-22 15:33:44 | INFO | historial.leer_historial | historial leído con 1 registros
+2026-11-22 15:33:48 | INFO | historial.leer_historial | historial leído con 1 registros
+2026-11-22 15:33:50 | INFO | historial.leer_historial | historial leído con 1 registros
+2026-11-22 15:33:50 | INFO | reportes.exportar_csv | reporte exportado | archivo=reporte_20261122_153350.csv
+2026-11-22 15:33:53 | INFO | historial.leer_historial | historial leído con 1 registros
+2026-11-22 15:34:07 | INFO | historial.leer_historial | historial leído con 1 registros
+2026-11-22 15:34:43 | INFO | decoradores.envoltura | calcular_todo completado en 0.0000 s
+2026-11-22 15:34:43 | INFO | historial.leer_historial | historial leído con 1 registros
+2026-11-22 15:34:43 | INFO | historial.guardar_calculo | historial escrito | id=0002
+2026-11-22 15:34:43 | INFO | decoradores.envoltura | guardar_calculo completado en 0.0033 s
+2026-11-22 15:35:00 | INFO | historial.leer_historial | historial leído con 2 registros
+2026-11-22 15:36:47 | INFO | historial.leer_historial | historial leído con 2 registros
+2026-11-22 15:36:50 | INFO | historial.leer_historial | historial leído con 2 registros
+2026-11-22 15:36:55 | INFO | historial.leer_historial | historial leído con 2 registros
+2026-11-22 15:36:58 | INFO | historial.leer_historial | historial leído con 2 registros
+2026-11-22 15:36:58 | WARNING | app.pagina_historial | filtro sin coincidencias | material=Aluminio
+2026-11-22 15:37:01 | INFO | historial.leer_historial | historial leído con 2 registros
+2026-11-22 15:37:32 | INFO | app.iniciar_aplicacion | aplicación iniciada
+2026-11-22 15:37:35 | INFO | historial.leer_historial | historial leído con 2 registros
+2026-11-22 15:37:40 | INFO | app.iniciar_aplicacion | aplicación iniciada
