@@ -1,0 +1,2 @@
+id,fecha,tension_v,resistencia_carga_ohm,material,longitud_ida_m,seccion_mm2,rc_ohm,rt_ohm,corriente_a,caida_v,potencia_w
+0001,2026-11-22 15:27:20,12.0,10.0,Cobre,5.0,2.5,0.0672,10.0672,1.1920,0.0801,0.0955
